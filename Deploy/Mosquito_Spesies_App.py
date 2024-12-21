@@ -163,7 +163,7 @@ def add_user_guide():
         <h3 style="font-size: 20px; color: white;">Panduan Penggunaan:</h3>
         <ul style="display: inline-block; text-align: left; font-size: 18px; color: white;">
             <li>Unggah file audio dari nyamuk yang ingin diklasifikasikan.</li>
-            <li>Klik tombol untuk memprediksi spesies nyamuk berdasarkan suara.</li>
+            <li>Tunggu proses upload video agar terbaca di aplikasi.</li
             <li>Hasil prediksi akan ditampilkan beserta visualisasi Mel-spectrogram.</li>
         </ul>
     </div>
